@@ -74,7 +74,7 @@
 ### Построить визуальную модель работы перцептрона на сцене Unity
 
 Ход работы:
+![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/Лаба4_10.gif)
 
 
-![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/laba3_5.png)
 ## Выводы
