@@ -60,13 +60,13 @@
 
 Ход работы:
 Обучение OR
-![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/laba4_6.png)
+![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/Лаба4_6.png)
 Обучение AND
-![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/laba4_7.png)
+![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/Лаба4_7.png)
 Обучение NAND
-![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/laba4_8.png)
+![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/Лаба4_8.png)
 Обучение XOR
-![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/laba4_9.png)
+![Image alt](https://github.com/GreatSherhebe1/UrFU_labaratory_Lab-4/raw/main/скриншоты/Лаба4_9.png)
 
 Как можно заметить из графиков, во всех четырех процесах обучения присутствует разное количество ошибок обучения, которое ведет за собой разное количество эпох обучения. Для первых трех логических операторов видна тенденция: чем меньше начальное значение ошибки обучения, тем меньше количество эпох обучения требуется. В 4-ом процессе, возможно, отклонение от общей тенденции предыдущих 3-х операторов является погрешностью, либо процесс обучения для XOR сложнее, чем для других операторов.
 
